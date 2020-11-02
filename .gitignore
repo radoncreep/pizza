@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+Website Logs:
+https://app.netlify.com/sites/dynopizzaa/deploys/5f9ffc7f33f5350e223b1bf6
+
+production command
+netlify deploy --prod
+/build
